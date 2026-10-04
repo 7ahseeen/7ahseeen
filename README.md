@@ -283,8 +283,8 @@ Computational Drug Design   ██░░░░░░░░░░░  20%
 <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2F81F7?style=for-the-badge"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Google_Scholar-Future_Profile-4285F4?style=for-the-badge"/>
+<a href="scholar.google.com/citations?user=FV_woVgAAAAJ">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
 <a href="#">
