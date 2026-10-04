@@ -174,7 +174,7 @@ Currently, I'm strengthening my foundation in genomics while expanding into AI-d
 
 ---
 
-### 🧬 Indentrix
+### 🧬 Identrix
 
 **Local Biological Sequence Alignment Desktop Application**
 
