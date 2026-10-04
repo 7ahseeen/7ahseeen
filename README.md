@@ -221,27 +221,6 @@ Desktop software that integrates NCBI and UniProt APIs to retrieve, organize, an
 
 ---
 
-### 🦠 Dengue Comparative Genomics Toolkit *(In Progress)*
-
-Research-oriented software supporting comparative analysis of dengue virus strains and computational workflows for vaccine-related research.
-
-**Current Focus**
-
-* Sequence comparison
-* Mutation profiling
-* Conserved region analysis
-* Biological data visualization
-
-**Tech Stack**
-
-`Python` `Biopython` `NumPy` `Pandas` `Matplotlib`
-
-**Status**
-
-🟡 Active Development
-
----
-
 # GitHub Statistics
 
 
