@@ -74,7 +74,7 @@ Building reproducible software and computational tools for biology, with a growi
 <p>
 <a href="https://github.com/7ahseeen"><img src="https://img.shields.io/github/followers/7ahseeen?style=for-the-badge&logo=github&label=Followers"></a>
 <a href="https://github.com/7ahseeen"><img src="https://img.shields.io/github/stars/7ahseeen?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"></a>
-<img src="https://komarev.com/ghpvc/?username=7ahseeen&style=for-the-badge&color=2F81F7" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=7ahseeen&style=for-the-badge&color=2F81F7">
 </p>
 
 </div>
